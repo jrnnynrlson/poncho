@@ -1,22 +1,14 @@
 # poncho
 ![poncho header](images/poncho_header.png)
-a weather app and chatbot made @ betaworks - dec 2016 to jun 2018
 <br />
 
 As Creative Editor at the weather app and chatbot Poncho, I wrote forecasts, horoscopes, and chatbot messages, and I coded these chatbot messages using RiveScript. Poncho was not just a product but a character, specifically a friendly slacker cat whose voice I honed alongside two other writers. In addition to these writers, I worked closely with designers, developers, and our product manager to create engaging, useful content, and to make the weather more than just small talk. 
 
-<br />
----
-
 ### Horoscopes
-<br />
 
 ![aquarius](images/ponch1.png)
-<br />
 ![taurus](images/ponch4.png)
-<br />
 ![virgo](images/ponch8.png)
-<br />
 ![scorpio](images/ponch10.png)
 
 <br />

@@ -10,9 +10,9 @@ As Creative Editor at the weather app and chatbot Poncho, I wrote forecasts, hor
 ![valentine’s day MASH](images/ponch14.png)
 <br />
 ### Horoscopes
-![aquarius](images/ponch1.png) ![taurus](images/ponch4.png) ![virgo](images/ponch8.png) ![scorpio](images/ponch10.png)
-<br />
+![aquarius](images/ponch1.png) ![taurus](images/ponch4.png) ![scorpio](images/ponch10.png) ![virgo](images/ponch8.png)
 ---
+<br />
 ![wacha avatar](images/wacha.jpeg)
 # Wacha
 In addition to writing for the already established Poncho character, when Poncho partnered with the Bravo network, I had the pleasure of taking the lead on a Facebook messenger bot created for the show Watch What Happens Live. I established a unique voice and coded Bravo-related chatbot messages and games for Wacha, Andy Cohen’s (former) pet dog. I'm especially proud of the fetch game, where users could throw a ball for Wacha and he'd bring it unless by chance he got distracted.
